@@ -1,9 +1,9 @@
 # Site settings
 title: BY Blog
-SEOTitle: TH的博客 | BY Blog
+SEOTitle: TH的博客 | BY TheNameTH Blog
 header-img: img/post-bg-desk.jpg
 email: 857708843@163.com
-description: "记录有的没的学习过程"
+description: "Record the learning process"
 keyword: "BY, BY Blog,"
 url: "http://TheNameTH.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: 
 
 # Gitalk
 gitalk:
@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "、、",
-        href: ""
+        title: "微博",
+        href: "https://weibo.com/u/5106394769"
     },{
         title: "简书·BY",
         href: "http://www.jianshu.com/"
