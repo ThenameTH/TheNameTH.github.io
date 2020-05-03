@@ -1,9 +1,9 @@
 # Site settings
-title: BY Blog
-SEOTitle: TH的博客 | BY TheNameTH Blog
+title: BY TheNameTH Blog
+SEOTitle: TH的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: 857708843@163.com
-description: "Record the learning process"
+description: "process"
 keyword: "BY, BY Blog,"
 url: "http://TheNameTH.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
